@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "noselftotemparticles",
+	"version": "1.0.0",
+	"name": "No Self Totem Particles",
+	"description": "hides ur own totem pop particles so they dont block ur screen",
+	"authors": [
+		"Wayss (Discord: waystobe)"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "assets/noselftotemparticles/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.example.client.noselftotmpartcls"
+		]
+	},
+	"mixins": [
+		"noselftotemparticles.client.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.9",
+		"minecraft": "*",
+		"java": ">=17",
+		"fabric": "*"
+	}
+}
