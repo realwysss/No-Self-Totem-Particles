@@ -1,3 +1,5 @@
+<p align="center"><img src="res/assets/noselftotemparticles/icon.png" width="128"></p>
+
 # No Self Totem Particles
 
 hides your own totem of undying pop particles so they do not block your screen. other players' totem particles still show.
