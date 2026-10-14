@@ -14,6 +14,6 @@ made by ways, discord: waystobe
 
 ## source
 
-no source was available, so `src` is decompiled from the release jar with cfr 0.152 (names are intermediary names like `class_702`) and `res` has the resources from the jar. the mixin is tiny: it cancels the totem particle when it was added for your own player.
+`src` has the code and `res` has the resources. the mixin is tiny: it cancels the totem particle when it was added for your own player.
 
 license: CC0 1.0
