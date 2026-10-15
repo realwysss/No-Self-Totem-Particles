@@ -16,4 +16,4 @@ made by ways, discord: waystobe
 
 `src` has the code and `res` has the resources. the mixin is tiny: it cancels the totem particle when it was added for your own player.
 
-license: CC0 1.0
+all rights reserved. made by wysss.
